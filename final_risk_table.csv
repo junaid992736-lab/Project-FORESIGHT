@@ -1,0 +1,51 @@
+SKU,Risk_Status,Recommended_Action,Value_At_Stake_Rs
+SKU001,Healthy,No Action,0.0
+SKU002,Healthy,No Action,0.0
+SKU003,Healthy,No Action,0.0
+SKU004,Healthy,No Action,0.0
+SKU005,Healthy,No Action,0.0
+SKU006,Overstock Risk,Markdown / Clear,938265.788830347
+SKU007,Healthy,No Action,0.0
+SKU008,Healthy,No Action,0.0
+SKU009,Healthy,No Action,0.0
+SKU010,Stockout Risk,Reorder Now,19294.255105311764
+SKU011,Overstock Risk,Markdown / Clear,919275.7171861663
+SKU012,Stockout Risk,Reorder Now,1348768.8257466801
+SKU013,Healthy,No Action,0.0
+SKU014,Healthy,No Action,0.0
+SKU015,Healthy,No Action,0.0
+SKU016,Healthy,No Action,0.0
+SKU017,Stockout Risk,Reorder Now,278846.3245637634
+SKU018,Healthy,No Action,0.0
+SKU019,Healthy,No Action,0.0
+SKU020,Overstock Risk,Markdown / Clear,4679466.48490567
+SKU021,Healthy,No Action,0.0
+SKU022,Healthy,No Action,0.0
+SKU023,Healthy,No Action,0.0
+SKU024,Healthy,No Action,0.0
+SKU025,Overstock Risk,Markdown / Clear,1285829.1285059478
+SKU026,Healthy,No Action,0.0
+SKU027,Healthy,No Action,0.0
+SKU028,Healthy,No Action,0.0
+SKU029,Healthy,No Action,0.0
+SKU030,Healthy,No Action,0.0
+SKU031,Stockout Risk,Reorder Now,592322.5639178872
+SKU032,Healthy,No Action,0.0
+SKU033,Healthy,No Action,0.0
+SKU034,Healthy,No Action,0.0
+SKU035,Healthy,No Action,0.0
+SKU036,Overstock Risk,Markdown / Clear,1324385.9601549068
+SKU037,Healthy,No Action,0.0
+SKU038,Healthy,No Action,0.0
+SKU039,Healthy,No Action,0.0
+SKU040,Stockout Risk,Reorder Now,36019.92713598841
+SKU041,Healthy,No Action,0.0
+SKU042,Healthy,No Action,0.0
+SKU043,Healthy,No Action,0.0
+SKU044,Healthy,No Action,0.0
+SKU045,Healthy,No Action,0.0
+SKU046,Healthy,No Action,0.0
+SKU047,Healthy,No Action,0.0
+SKU048,Healthy,No Action,0.0
+SKU049,Healthy,No Action,0.0
+SKU050,Healthy,No Action,0.0
