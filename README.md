@@ -14,19 +14,10 @@ The API currently serves saved CSV results. Its forecast endpoint returns histor
 
 ## API Endpoints
 
-Run the API locally using:
+The API is publicly hosted at https://project-foresight-uvpx.onrender.com
+API documentation: https://project-foresight-uvpx.onrender.com/docs
 
-python -m uvicorn api:app --reload
-
-Open the API documentation at http://127.0.0.1:8000/docs
-
-- GET / — Check whether the service is running.
-- GET /risk/{sku} — Get saved inventory risk details for one SKU.
-- GET /forecast/{sku} — Get historical backtest forecasts for one SKU.
-- GET /score/{sku} — Get both saved risk and historical forecast results.
-- POST /score/batch — Get results for multiple SKUs.
-
-The API is currently local and reads saved CSV files. It does not generate new forecasts.
+The API reads saved CSV files and does not generate new forecasts.
 
 ## API Input and Output
 
@@ -60,8 +51,6 @@ streamlit run dashboard.py
 The dashboard displays historical forecasts, inventory risk, and recommended actions using saved project outputs.
 
 ## Current Limitations
-
-- The API runs locally and is not yet publicly hosted.
 - Forecast responses contain historical backtest predictions, not future forecasts.
 - The API reads saved CSV outputs rather than running the trained model for each request.
 - Inventory risk results and historical backtest forecasts come from different evaluation periods.
