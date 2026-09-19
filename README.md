@@ -9,6 +9,15 @@ FORESIGHT is a demand forecasting and inventory risk analysis project built usin
 - Streamlit dashboard
 - FastAPI scoring service
 
+## Live Dashboard
+
+The Streamlit dashboard is publicly hosted at:
+
+https://project-foresight-ti9iulcysfmwtel2zhbayq.streamlit.app/
+
+The dashboard displays SKU-level demand analysis, historical backtest forecasts, inventory risk, and recommended actions.
+
+
 ## API Note
 The API currently serves saved CSV results. Its forecast endpoint returns historical backtest predictions, not live or future forecasts.
 
